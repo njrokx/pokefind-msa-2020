@@ -1,0 +1,16 @@
+.MediaCardContainer{
+    max-width: 310px;
+    margin: auto;
+}
+.MediaCardImage{
+    height: 200px !important;
+    max-width: 310px;
+}
+.MediaCardTitle{
+    height: auto;
+    text-transform: capitalize;
+}
+.MediaCardDescription{
+    height: 100px;
+    margin-bottom: auto;
+}
